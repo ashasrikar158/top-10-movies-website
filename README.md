@@ -1,2 +1,2 @@
 # top-10-movies-website
-My top 10 movies with rating and review using Front End tools and Flask and Database
+My top 10 movies with rating and review using Front End tools and Flask and Database. An engaging web development project centered around a "Top 10 Movies" website. This platform allows users to explore and interact with a curated list of movies, providing the ability to view ratings, leave reviews, and perform CRUD (Create, Read, Update, Delete) operations on movie entries.
